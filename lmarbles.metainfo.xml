@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>net.sourceforge.LMarbles</id>
-  <launchable type="desktop-id">net.sourceforge.LMarbles.desktop</launchable>
+  <id>net.sourceforge.lgames.LMarbles</id>
+  <launchable type="desktop-id">net.sourceforge.lgames.LMarbles.desktop</launchable>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0</project_license>
   <developer id="io.sourceforge.lgames">
