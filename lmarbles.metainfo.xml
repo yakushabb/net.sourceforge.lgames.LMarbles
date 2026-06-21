@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>net.sourceforge.LMarbles</id>
+  <launchable type="desktop-id">net.sourceforge.LMarbles.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <developer id="io.sourceforge.lgames">
+    <name>Michael Speck</name>
+  </developer>
+  <name>LMarbles</name>
+  <summary>Atomix clone with a slight change in concept</summary>
+  <description>
+    <p>LMarbles is an Atomix clone with a slight change in concept. Instead of assembling molecules
+      you create figures out of marbles.</p>
+    <p>Nevertheless, the basic game play is the same:
+      If a marble starts to move it will not stop until it hits a wall or another marble.
+      To make it more interesting there are obstacles like one-way streets, crumbling walls and portals.
+      You can either play against a move or a time limit.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source" width="1920" height="1080">https://lgames.sourceforge.io/LMarbles/ss0.jpg</image>
+      <caption>In-game screenshot</caption>
+    </screenshot>
+    <screenshot>
+      <image type="source" width="1920" height="1080">https://lgames.sourceforge.io/LMarbles/ss1.jpg</image>
+      <caption>In-game screenshot</caption>
+    </screenshot>
+    <screenshot>
+      <image type="source" width="1920" height="1080">https://lgames.sourceforge.io/LMarbles/ss2.jpg</image>
+      <caption>In-game screenshot</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://lgames.sourceforge.io/LMarbles/</url>
+  <url type="help">https://sourceforge.net/p/lgames/code/HEAD/tree/trunk/lmarbles/README</url>
+  <url type="bugtracker">https://sourceforge.net/p/lgames/bugs/</url>
+  <url type="contact">https://lgames.sourceforge.io/contact.php</url>
+  <url type="donation">https://lgames.sourceforge.io/donate.php</url>
+  <url type="vcs-browser">https://sourceforge.net/p/lgames/code/HEAD</url>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="1.1.1" date="2026-06-04">
+      <url>https://sourceforge.net/p/lgames/code/HEAD/tree/trunk/lmarbles/ChangeLog</url>
+    </release>
+  </releases>
+</component>
